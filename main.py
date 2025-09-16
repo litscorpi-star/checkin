@@ -54,10 +54,11 @@ def yd_run():
         
 if __name__ == "__main__":
     yd_run()
-    tianyi_task.main()
+    # tianyi_task.main()
     
 
 
     
+
 
 
